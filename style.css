@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    color: rgb(2, 32, 32);
+    font-family: 'Courier New', Courier, monospace;
+    font: 20px;
+    border: 4px;
+}
